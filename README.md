@@ -1,32 +1,33 @@
-# PACKAGE MANAGERS (NPM E Yarn)
+<!-- Título -->
+# O Que é um Repositório?
 
-***Aulas:***
+***Conteúdo da Aula:***
 
-- [ ] O que é Package Managers?
-- [ ] Instalando Node.js e NPM.
-- [ ] Entendendo Package.json e Versionamento.
-- [ ] Instalando Pacotes no Projeto.
-- [ ] Atualizando Pacotes no Projeto.
-- [ ] Rodando Projeto no Navegador.
-- [ ] Removendo Pacotes no Projeto.
-- [ ] Instalando Versões Especificas.
-- [ ] O que é Yarn?
-- [ ] Instalando o Yarn.
-- [ ] Usando o Yarn.
+Basicamente, um repositório é um local de armazenamento do nosso código-fonte.
 
-## INFORMAÇÕES
+É nele que nossos códigos serão armazenados e versionados.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.package-managers-front-end-zp "Total de Visitas")
-&nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
-&nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/package-managers-front-end-zp?style=social "Total de Observadores")
-&nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/package-managers-front-end-zp?style=social "Total de Estrelas Recebidas")
-&nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/package-managers-front-end-zp?style=social "Total de Forks")
-&nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/package-managers-front-end-zp?style=social "Tamanho do Repositório")
-&nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/package-managers-front-end-zp?style=social "Licença do Repositório")
+Com o GIT, existem dois tipos de repositórios:
 
+* **Local**:
+  * Um repositório onde os códigos são armazenados e versionados localmente, sem a necessidade de um serviço externo;
+
+* **Remoto**:
+  * Um repositório onde os códigos são armazenados e versionados remotamente, utilizando serviços como *Github*, *Bitbucket* ou *Gitlab* (que serão vistos posteriormente).
+
+<!-- Informações -->
+## &#8505; Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-o-que-rep-rep-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
+&nbsp;
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-o-que-rep-rep-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
+&nbsp;
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-o-que-rep-rep-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
+&nbsp;
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-o-que-rep-rep-git-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
+&nbsp;
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-o-que-rep-rep-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
+&nbsp;
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-o-que-rep-rep-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
